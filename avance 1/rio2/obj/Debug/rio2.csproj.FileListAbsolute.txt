@@ -1,0 +1,6 @@
+C:\Users\56984\Desktop\proyecto\avance 1\1°avance\rio2\bin\Debug\rio2.exe.config
+C:\Users\56984\Desktop\proyecto\avance 1\1°avance\rio2\bin\Debug\rio2.exe
+C:\Users\56984\Desktop\proyecto\avance 1\1°avance\rio2\bin\Debug\rio2.pdb
+C:\Users\56984\Desktop\proyecto\avance 1\1°avance\rio2\obj\Debug\rio2.csproj.CoreCompileInputs.cache
+C:\Users\56984\Desktop\proyecto\avance 1\1°avance\rio2\obj\Debug\rio2.exe
+C:\Users\56984\Desktop\proyecto\avance 1\1°avance\rio2\obj\Debug\rio2.pdb

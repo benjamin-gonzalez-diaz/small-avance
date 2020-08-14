@@ -1,0 +1,6 @@
+C:\Users\56984\Desktop\proyecto\avance 1\1°avance\lago\bin\Debug\lago.exe.config
+C:\Users\56984\Desktop\proyecto\avance 1\1°avance\lago\bin\Debug\lago.exe
+C:\Users\56984\Desktop\proyecto\avance 1\1°avance\lago\bin\Debug\lago.pdb
+C:\Users\56984\Desktop\proyecto\avance 1\1°avance\lago\obj\Debug\lago.csproj.CoreCompileInputs.cache
+C:\Users\56984\Desktop\proyecto\avance 1\1°avance\lago\obj\Debug\lago.exe
+C:\Users\56984\Desktop\proyecto\avance 1\1°avance\lago\obj\Debug\lago.pdb
